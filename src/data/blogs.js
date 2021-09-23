@@ -18,11 +18,11 @@ const blogs = [
         image: id_,
     },
     {
-        id: 2,
-        title: 'BOOK | Distributed Framework for Real World Applications',
+        id: 4,
+        title: 'Smart Contracts for Banking and Finance',
         date: '01',
         month: 'April',
-        image: real_world,
+        image: smart_contracts,
         link: 'https://www.google.co.uk/'
     },
     {
@@ -34,13 +34,14 @@ const blogs = [
         link: 'https://www.google.co.uk/'
     },
     {
-        id: 4,
-        title: 'Smart Contracts for Banking and Finance',
+        id: 2,
+        title: 'BOOK | Distributed Framework for Real World Applications',
         date: '01',
         month: 'April',
-        image: smart_contracts,
+        image: real_world,
         link: 'https://www.google.co.uk/'
     },
+    
     {
         id: 5,
         title: 'BOOK | Self-Sovereign Identities',
