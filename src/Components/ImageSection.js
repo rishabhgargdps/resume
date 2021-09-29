@@ -10,7 +10,7 @@ function ImageSection() {
                 <img src={resume} alt=""/>
             </div>
             <div className="right-content">
-                <h4>I am <span>Rishabh Garg</span></h4>
+                <h4><span>Rishabh Garg</span></h4>
                 <p className="paragraph">
                 Student at BITS - Pilani, Goa | an upcoming SDE Intern with ServiceNow, California US | 
                 Journal Referee with IEEE Internet of Things | Worked as Data Science Intern at IIT - Delhi | 
@@ -24,7 +24,7 @@ function ImageSection() {
                         <p>Nationality </p>
                         <p>Languages </p>
                         <p>Location</p>
-                        <p>Service</p>
+                        <p>Primary skill</p>
                     </div>
                     <div className="info">
                         <p>: Rishabh Garg</p>
@@ -32,7 +32,7 @@ function ImageSection() {
                         <p>: Indian </p>
                         <p>: English, Hindi </p>
                         <p>: Bhopal, Madhya Pradesh</p>
-                        <p>: Competitive coder</p>
+                        <p>: Competitive Coding</p>
                     </div>
                 </div>
                 <a href="https://drive.google.com/file/d/1mtFJilH4JDeG3e_OiFsZPJoj8_FMkdxJ/view?usp=sharing">

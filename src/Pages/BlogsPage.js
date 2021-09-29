@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import Title from '../Components/Title';
-import blogs from '../data/blogs';
+import blogs from '../data/publications';
 import {MainLayout, InnerLayout} from '../styles/Layouts';
 
 function BlogsPage() {

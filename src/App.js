@@ -8,6 +8,8 @@ import AboutPage from './Pages/AboutPage';
 import ResumePage from './Pages/ResumePage';
 import PortfoliosPage from './Pages/PortfoliosPage';
 import BlogsPage from './Pages/BlogsPage';
+import CoursesPage from "./Pages/CoursesPage";
+import AwardsPage from './Pages/AwardsPage';
 import ContactPage from './Pages/ContactPage';
 import Brightness4Icon from '@material-ui/icons/Brightness4';
 import MenuIcon from '@material-ui/icons/Menu';
@@ -81,11 +83,17 @@ function App() {
             <Route path="/resume" exact>
               <ResumePage />
             </Route>
-            <Route path="/portfolios" exact>
+            <Route path="/projects" exact>
               <PortfoliosPage />
             </Route>
-            <Route path="/blogs" exact>
+            <Route path="/publications" exact>
                <BlogsPage />
+            </Route>
+            <Route path="/courses" exact>
+              <CoursesPage />
+            </Route>
+            <Route path="/awards" exact>
+              <AwardsPage />
             </Route>
             <Route path="/contact" exact>
               <ContactPage />

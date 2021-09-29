@@ -8,7 +8,7 @@ function Skills() {
     return (
         <SkillsStyled>
             
-                <Title title={'My Skills'} span={'my skills'} />
+                <Title title={'Skills'} span={'skills'} />
                 <InnerLayout>
                     <div className="skills">
                         <ProgressBar 

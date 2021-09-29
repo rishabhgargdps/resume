@@ -20,17 +20,23 @@ function Navigation() {
                     <NavLink to="/resume" activeClassName="active-class" exact>Resume</NavLink>
                 </li>
                 <li className="nav-item">
-                    <NavLink to="/portfolios" activeClassName="active-class" exact>Portfolios</NavLink>
+                    <NavLink to="/projects" activeClassName="active-class" exact>Projects</NavLink>
                 </li>
                 <li className="nav-item">
-                    <NavLink to="/blogs" activeClassName="active-class" exact>Publications</NavLink>
+                    <NavLink to="/publications" activeClassName="active-class" exact>Publications</NavLink>
+                </li>
+                <li className="nav-item">
+                    <NavLink to="/courses" activeClassName="active-class" exact>Courses</NavLink>
+                </li>
+                <li className="nav-item">
+                    <NavLink to="/awards" activeClassName="active-class" exact>Awards</NavLink>
                 </li>
                 <li className="nav-item">
                     <NavLink to="/contact" activeClassName="active-class" exact>Contact</NavLink>
                 </li>
             </ul>
             <footer className="footer">
-                <p>@2021 <b>Rishabh Garg</b></p>
+                <p><b>© Rishabh Garg</b></p>
             </footer>
         </NavigationStyled>
     )
@@ -38,6 +44,10 @@ function Navigation() {
 
 const NavigationStyled = styled.nav`
     display: flex;
+    overflow-y: scroll;
+    ::-webkit-scrollbar {
+        width: 0px;
+      }
     justify-content: space-between;
     flex-direction: column;
     align-items: center;

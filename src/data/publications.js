@@ -18,7 +18,7 @@ const blogs = [
         image: id_,
     },
     {
-        id: 4,
+        id: 2,
         title: 'Smart Contracts for Banking and Finance',
         date: '01',
         month: 'April',
@@ -34,7 +34,7 @@ const blogs = [
         link: 'https://www.google.co.uk/'
     },
     {
-        id: 2,
+        id: 4,
         title: 'BOOK | Distributed Framework for Real World Applications',
         date: '01',
         month: 'April',

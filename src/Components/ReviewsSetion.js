@@ -7,15 +7,17 @@ import ReviewItem from '../Components/ReviewItem';
 function ReviewsSetion() {
     return (
         <ReviewsStyled>
-            <Title title={'Reviews'} span={'Reviews'} />
+            <Title title={'Recommendations'} span={'Recommend'} />
             <InnerLayout>
                 <div className="reviews">
-                    <ReviewItem 
-                        text={'Find the required LORs at the sidelink:'} 
-                    />
+                    <a href = "">
+                        <ReviewItem 
+                            text={'Professional LORs'} 
+                        />
+                    </a>
                     <a href = "">
                         <ReviewItem
-                            text={'Swiggy, IIT Delhi, Mittal Institute'}
+                            text={'Educational LORs'}
                         />
                     </a>
                     
