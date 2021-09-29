@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/resume/static/js/main.56c35f49.chunk.js",
-    "main.js.map": "/resume/static/js/main.56c35f49.chunk.js.map",
+    "main.js": "/resume/static/js/main.93d58510.chunk.js",
+    "main.js.map": "/resume/static/js/main.93d58510.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.0b5a7e60.js",
     "runtime-main.js.map": "/resume/static/js/runtime-main.0b5a7e60.js.map",
-    "static/js/2.35f006da.chunk.js": "/resume/static/js/2.35f006da.chunk.js",
-    "static/js/2.35f006da.chunk.js.map": "/resume/static/js/2.35f006da.chunk.js.map",
+    "static/js/2.d3929184.chunk.js": "/resume/static/js/2.d3929184.chunk.js",
+    "static/js/2.d3929184.chunk.js.map": "/resume/static/js/2.d3929184.chunk.js.map",
     "index.html": "/resume/index.html",
-    "static/js/2.35f006da.chunk.js.LICENSE.txt": "/resume/static/js/2.35f006da.chunk.js.LICENSE.txt",
+    "static/js/2.d3929184.chunk.js.LICENSE.txt": "/resume/static/js/2.d3929184.chunk.js.LICENSE.txt",
     "static/media/1billion.ca2ee210.png": "/resume/static/media/1billion.ca2ee210.png",
     "static/media/Leetcode.1da9fd22.png": "/resume/static/media/Leetcode.1da9fd22.png",
     "static/media/ML_biosensors.cfcb3967.jpg": "/resume/static/media/ML_biosensors.cfcb3967.jpg",
@@ -33,7 +33,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0b5a7e60.js",
-    "static/js/2.35f006da.chunk.js",
-    "static/js/main.56c35f49.chunk.js"
+    "static/js/2.d3929184.chunk.js",
+    "static/js/main.93d58510.chunk.js"
   ]
 }
