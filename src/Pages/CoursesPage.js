@@ -23,11 +23,11 @@ function CoursesPage() {
   };
   return (
     <MainLayout>
-      <Title title={"Courses"} span={"courses"} />
+      <CoursesSection />
       <InnerLayout>
+        <Title title={"Online courses"} span={"courses"} />
         <Button filter={filter} button={button} />
         <Menu menuItem={menuItem} />
-        <CoursesSection />
       </InnerLayout>
     </MainLayout>
   );

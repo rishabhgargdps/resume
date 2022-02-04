@@ -21,14 +21,14 @@ function HomePage() {
                 driving client satisfaction.
                 </p>
                 <div className="icons">
-                    <a href="https://facebook.com/rishabh.garg.121772/" className="icon i-facebook">
-                        <FacebookIcon />
+                    <a href="https://linkedin.com/in/rishabhgargbits/" className="icon i-linkedin">
+                        <LinkedinIcon />
                     </a>
                     <a href="https://github.com/rishabhgargdps" className="icon i-github">
                         <GithubIcon />
                     </a>
-                    <a href="https://linkedin.com/in/rishabhgargbits/" className="icon i-linkedin">
-                        <LinkedinIcon />
+                    <a href="https://facebook.com/rishabh.garg.121772/" className="icon i-facebook">
+                        <FacebookIcon />
                     </a>
                 </div>
             </div>

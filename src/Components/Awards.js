@@ -15,7 +15,7 @@ function Awards() {
                 <div className="mid-card">
                     <AwardsCard 
                         title={'National Award'} 
-                        paragraph={'CSIR Award'}
+                        paragraph={'CSIR Innovation Award'}
                     />
                 </div>
             </div>

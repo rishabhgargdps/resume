@@ -12,10 +12,10 @@ function ImageSection() {
             <div className="right-content">
                 <h4><span>Rishabh Garg</span></h4>
                 <p className="paragraph">
-                Student at BITS - Pilani, Goa | an upcoming SDE Intern with ServiceNow, California US | 
-                Journal Referee with IEEE Internet of Things | Worked as Data Science Intern at IIT - Delhi | 
-                SDE Intern with Swiggy, India. Authored 2 Books and accomplished 4 Major Projects in Web D; 
-                4 in Machine Learning; 2 on Blockchain and 2 in Financial Management.
+                Student at BITS - Pilani, Goa | Upcoming SDE Intern with ServiceNow | Worked as 
+                SDE Intern with Ethan AI, Singapore | Data Science Intern at IIT - Delhi | 
+                SDE Intern with Swiggy | Publication contract with Wiley, US | 
+                Journal Referee with IEEE Internet of Things 
                 </p>
                 <div className="about-info">
                     <div className="info-title">
@@ -31,8 +31,8 @@ function ImageSection() {
                         <p>: 20</p>
                         <p>: Indian </p>
                         <p>: English, Hindi </p>
-                        <p>: Bhopal, Madhya Pradesh</p>
-                        <p>: Competitive Coding</p>
+                        <p>: Bhopal, M.P.</p>
+                        <p>: Software Development</p>
                     </div>
                 </div>
                 <a href="https://drive.google.com/file/d/1mtFJilH4JDeG3e_OiFsZPJoj8_FMkdxJ/view?usp=sharing">
