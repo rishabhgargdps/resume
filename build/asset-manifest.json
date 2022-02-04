@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.js": "/resume/static/js/main.93d58510.chunk.js",
+    "main.js.map": "/resume/static/js/main.93d58510.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.0b5a7e60.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.0b5a7e60.js.map",
+    "static/js/2.d3929184.chunk.js": "/resume/static/js/2.d3929184.chunk.js",
+    "static/js/2.d3929184.chunk.js.map": "/resume/static/js/2.d3929184.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "static/js/2.d3929184.chunk.js.LICENSE.txt": "/resume/static/js/2.d3929184.chunk.js.LICENSE.txt",
+    "static/media/1billion.ca2ee210.png": "/resume/static/media/1billion.ca2ee210.png",
+    "static/media/Leetcode.1da9fd22.png": "/resume/static/media/Leetcode.1da9fd22.png",
+    "static/media/ML_biosensors.cfcb3967.jpg": "/resume/static/media/ML_biosensors.cfcb3967.jpg",
+    "static/media/avatar.f0bc0bec.jpg": "/resume/static/media/avatar.f0bc0bec.jpg",
+    "static/media/blockchain_e.ad1922f8.jpg": "/resume/static/media/blockchain_e.ad1922f8.jpg",
+    "static/media/cell.4531269d.jpg": "/resume/static/media/cell.4531269d.jpg",
+    "static/media/content_w.ac314fc3.jpeg": "/resume/static/media/content_w.ac314fc3.jpeg",
+    "static/media/design.8ecb3043.svg": "/resume/static/media/design.8ecb3043.svg",
+    "static/media/domain.7b05690f.png": "/resume/static/media/domain.7b05690f.png",
+    "static/media/employment.3ddfc639.png": "/resume/static/media/employment.3ddfc639.png",
+    "static/media/game-dev.20147858.svg": "/resume/static/media/game-dev.20147858.svg",
+    "static/media/global_identity.1b567fc1.png": "/resume/static/media/global_identity.1b567fc1.png",
+    "static/media/id.14aa6cbd.png": "/resume/static/media/id.14aa6cbd.png",
+    "static/media/intelligence.11bd2ab2.svg": "/resume/static/media/intelligence.11bd2ab2.svg",
+    "static/media/one_nation.c427ca12.png": "/resume/static/media/one_nation.c427ca12.png",
+    "static/media/real_world.df06f783.png": "/resume/static/media/real_world.df06f783.png",
+    "static/media/resume.bc0ba060.jpg": "/resume/static/media/resume.bc0ba060.jpg",
+    "static/media/smart_contracts.8b5afd6d.png": "/resume/static/media/smart_contracts.8b5afd6d.png",
+    "static/media/ssi.48a48412.png": "/resume/static/media/ssi.48a48412.png",
+    "static/media/ssi_b.86f338bd.png": "/resume/static/media/ssi_b.86f338bd.png",
+    "static/media/storybook.8a9737e8.png": "/resume/static/media/storybook.8a9737e8.png",
+    "static/media/tech_pine.d1168f52.png": "/resume/static/media/tech_pine.d1168f52.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b5a7e60.js",
+    "static/js/2.d3929184.chunk.js",
+    "static/js/main.93d58510.chunk.js"
+  ]
+}
