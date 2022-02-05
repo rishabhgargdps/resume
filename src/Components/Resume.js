@@ -31,6 +31,12 @@ function Resume() {
                         text={'Technology stack not yet discussed'} 
                     />
                     <ResumeItem 
+                        year={'Nov - Dec 2021'} 
+                        title={'Investment Banking Analyst'}
+                        subTitle={'Finlatics | Mumbai, Maharashtra, India (Remote)'}
+                        text={'The Finlatics Investment Banking Experience Program (IBEP) is a live project that helps students gain work experience in private equity & venture capital.'} 
+                    />
+                    <ResumeItem 
                         year={'Jun - Aug 2021'} 
                         title={'SDE Intern'}
                         subTitle={'Swiggy | Bengaluru, Karnataka, India (Remote)'}
@@ -45,7 +51,7 @@ function Resume() {
                     <ResumeItem 
                         year={'Mar - Jul 2020'} 
                         title={'Web developer'}
-                        subTitle={'Mittal Institute | Bhopal'}
+                        subTitle={'Mittal Institute | Bhopal, Madhya Pradesh, India'}
                         text={'Created a front end web interface for network administrator and end users. Used the twitter bootstrap framework of CSS for enhanced user experience. Used some basic React JS and did basic event handling.'} 
                     />
                 </div>

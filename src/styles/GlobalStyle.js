@@ -1,6 +1,5 @@
 import {createGlobalStyle} from 'styled-components';
 
-
 const GlobalStyle = createGlobalStyle`
 /* :root{
     --primary-color: #007bff;
@@ -19,7 +18,6 @@ const GlobalStyle = createGlobalStyle`
     --scrollbar-bg-color: #383838;
     --scrollbar-thump-color: #6b6b6b;
     --scrollbar-track-color: #383838;
-
 } */
 
 .light-theme{
@@ -67,7 +65,6 @@ const GlobalStyle = createGlobalStyle`
     text-decoration: none;
     font-family: 'Nunito', sans-serif;
     font-size: 1.1rem;
-    
 }
 
 body{
@@ -79,6 +76,7 @@ body{
 body::-webkit-scrollbar{
     width: 9px;
     background-color: #383838;
+    display: none;
 }
 body::-webkit-scrollbar-thumb{
     border-radius: 10px;
