@@ -1,7 +1,7 @@
 # Interested in Software development Roles at MNCs
 
 ## Education:-
-Final year undergraduate (Bachelor of Engineer - B.E.) at BITS Pilani. </br> 
+Final year undergraduate (Bachelor of Engineering - B.E.) at BITS Pilani. </br> 
 CGPA: 8.88
 
 ## Work experience:-
