@@ -12,10 +12,10 @@ function ImageSection() {
             <div className="right-content">
                 <h4><span>Rishabh Garg</span></h4>
                 <p className="paragraph">
-                Student at BITS - Pilani, Goa | Upcoming SDE Intern with ServiceNow | Worked as 
-                SDE Intern with Ethan AI, Singapore | Data Science Intern at IIT - Delhi | 
-                SDE Intern with Swiggy | Publication contract with Wiley, US | 
-                Journal Referee with IEEE Internet of Things 
+                Final year undergraduate student at BITS Pilani.
+                SDE Intern @ ServiceNow, Swiggy, Ethan.ai, Fleek | SRE Intern @ Flipkart |
+                Cybersecurity Trainee @ Cisco | Data Science Intern @ IIT Delhi |
+                National Awardee | Author - Wiley Publications, US | Journal Referee - IEEE
                 </p>
                 <div className="about-info">
                     <div className="info-title">
@@ -28,15 +28,15 @@ function ImageSection() {
                     </div>
                     <div className="info">
                         <p>: Rishabh Garg</p>
-                        <p>: 20</p>
+                        <p>: 21</p>
                         <p>: Indian </p>
                         <p>: English, Hindi </p>
                         <p>: Bhopal, M.P.</p>
                         <p>: Software Development</p>
                     </div>
                 </div>
-                <a href="https://drive.google.com/file/d/1mtFJilH4JDeG3e_OiFsZPJoj8_FMkdxJ/view?usp=sharing">
-                    <PrimaryButton title={'Download CV'} />
+                <a href="https://drive.google.com/file/d/1EJ0u78msUU1JcqtpWqww14EaD6e1psG_/view?usp=share_link" target="_blank">
+                    <PrimaryButton title={'VIEW RESUME'} />
                 </a>
             </div>
         </ImageSectionStyled>

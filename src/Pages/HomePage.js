@@ -14,11 +14,10 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>Rishabh Garg</span></h1>
                 <p>
-                Engineering 3rd year student at BITS-Pilani, Goa, specialized in Deep Learning 
-                (Neural Networks), Applied Data Science with Python, TensorFlow and Blockchain Technology. 
-                Skilled in CSS, HTML and JavaScript Libraries, looking to leverage in-depth 
-                knowledge of Full Stack Web Development for achieving breakthrough efficiency and 
-                driving client satisfaction.
+                Final year undergraduate student at BITS Pilani with 1.5 years of internship work experience at Flipkart, ServiceNow,
+                Cisco, Swiggy, Fleek, Ethan.ai and IIT Delhi. Well versed with CS Fundamentals - Object Oriented Programming,
+                Operating System, Database Management System, Computer Networks and System Design (HLD and LLD). Solved over 650 LeetCode problems.
+                Actively looking for Software Engineer - 1 (SDE / SRE / SE) roles at MNCs. Please do connect on LinkedIn!
                 </p>
                 <div className="icons">
                     <a href="https://linkedin.com/in/rishabhgargbits/" className="icon i-linkedin">
