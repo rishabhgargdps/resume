@@ -21,7 +21,7 @@ function Resume() {
                     <ResumeItem
                         year={'Jan - Jun 2023'}
                         title={'Site Reliability Engineering Intern'}
-                        subTitle={'Fleek Technologies | Bengaluru, Karnataka, India'}
+                        subTitle={'Flipkart | Bengaluru, Karnataka, India'}
                         text={'Working on AIOps (auto-triaging, auto-remediation, post incident work-flow) and service/infra discovery. Tech stack: Terraform, Google Cloud Platform, Kubernetes, SQL'}
                     />
                     <ResumeItem
