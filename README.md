@@ -1,10 +1,10 @@
 # Interested in Software development Roles at MNCs
 
-## Education:-
+## Education:
 Bachelor of Engineering - B.E. | BITS Pilani, India. 
 CGPA: 9.04
 
-## Work experience:-
+## Work experience:
 1. Software Engineer - Google
 2. Assoc. Software Engineer - ServiceNow
 3. SRE Intern - Flipkart
@@ -15,19 +15,19 @@ CGPA: 9.04
 8. SE Intern - Fleek
 9. Data Science Intern - IIT Delhi
 
-## Websites:-
+## Websites:
 Personal website: https://rishabhgargdps.github.io/resume </br>
 Leetcode: https://leetcode.com/Rishabh_Garg_1190/ <br/>
 Github: https://github.com/rishabhgargdps
 
-## CS Fundamentals:-
+## CS Fundamentals:
 Data Structures and Algorithms, Object Oriented Programming, System Design (HLD, LLD), Database Management Systems, Operating Systems, Computer Networks
 
-## Skills:-
+## Skills:
 Programming languages: C/C++, Python, Java, JavaScript, Solidity
 Technologies : AWS, TensorFlow, SQL, MongoDB, Django, Docker, Flask, React.js, Express.js, GraphQL, Neo4j, Heroku
 
-## Major Achievements:-
+## Major Achievements:
 1. Authored "Blockchain for Real World Applications" - Wiley Publications, US
 2. Journal Referee - IEEE | Internet of Things, Elsevier 
 3. National Award for Exceptional Achievement in Innovation (from President of India - Mr. Ram Nath Kovind)
