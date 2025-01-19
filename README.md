@@ -1,17 +1,19 @@
 # Interested in Software development Roles at MNCs
 
 ## Education:-
-Final year undergraduate (Bachelor of Engineering - B.E.) at BITS Pilani. </br> 
-CGPA: 8.88
+Bachelor of Engineering - B.E. | BITS Pilani, India. 
+CGPA: 9.04
 
 ## Work experience:-
-1. SRE Intern - Flipkart
-2. SDE Intern - ServiceNow
-3. Cybersecurity Trainee - Cisco
-4. SDE Intern - Swiggy
-5. SE Intern - Ethan.ai
-6. SE Intern - Fleek
-7. Data Science Intern - IIT Delhi
+1. Software Engineer - Google
+2. Assoc. Software Engineer - ServiceNow
+3. SRE Intern - Flipkart
+4. SDE Intern - ServiceNow
+5. Cybersecurity Trainee - Cisco
+6. SDE Intern - Swiggy
+7. SE Intern - Ethan.ai
+8. SE Intern - Fleek
+9. Data Science Intern - IIT Delhi
 
 ## Websites:-
 Personal website: https://rishabhgargdps.github.io/resume </br>
@@ -27,6 +29,6 @@ Technologies : AWS, TensorFlow, SQL, MongoDB, Django, Docker, Flask, React.js, E
 
 ## Major Achievements:-
 1. Authored "Blockchain for Real World Applications" - Wiley Publications, US
-2. Journal Referee - IEEE
-3. National Child Award for Exceptional Achievement in Innovation (from President of India - Mr. Ram Nath Kovind)
+2. Journal Referee - IEEE | Internet of Things, Elsevier 
+3. National Award for Exceptional Achievement in Innovation (from President of India - Mr. Ram Nath Kovind)
 4. CSIR Innovation Award (from Prime Minister of India - Mr. Narendra Modi)
